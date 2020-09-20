@@ -11,6 +11,7 @@ public class openLucky {
 		System.out.println("user Willy create Pull Request~");
 	
 		System.out.println("希望也可以有老婆不在的小確幸XDDD");
+		System.out.println("給我出現最新進度");
 	}
 
 }
