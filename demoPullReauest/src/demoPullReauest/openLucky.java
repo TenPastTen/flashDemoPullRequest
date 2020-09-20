@@ -8,6 +8,7 @@ public class openLucky {
 		System.out.println("再度亂搞");
 		
 		System.out.println("趁你老婆不在亂搞,+1");
+		System.out.println("user Willy create Pull Request~");
 	}
 
 }
